@@ -1,4 +1,4 @@
-# **Read Me First**
+# **Read Me**
 
 ### Basic Spring Boot Application to Retrieve Network Details from Host
 
